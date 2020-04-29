@@ -23,7 +23,7 @@ public static void main(String[] args) {
         empUtil.empWage();
         empUtil.empWageForMonth();
     }else
-    {  
+    {
      System.out.println("Emp not present ");
     }
 }
